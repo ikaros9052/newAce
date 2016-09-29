@@ -1,0 +1,89 @@
+/* CSS Document */
+body,ul,dl,dd,p,form,h1,h2,h3,h4,h5,button{margin:0;padding:0;}
+/*reset end*/
+body{font-size:14px;color:#666;line-height:1.5;font-family:"\5FAE\8F6F\96C5\9ED1";background:#f5f5f5;}
+a{text-decoration: none;color: #000;}
+ul{list-style:none;}
+input,button{font-family:"microsoft yahei";outline: none;cursor: pointer;}
+.fl{float:left;}
+.fr{float:right;}
+.clearfix:after{content:"\200B";height:0;clear:both;display:block;}
+.clearfix{*zoom:1;}
+.wrap{width: 1100px;margin: 0 auto;}
+.relative{position: relative;}
+footer{text-align:center;padding:30px 0 38px;background:#D7D7D7;}
+/*common end*/
+.head{background:#fff;border-bottom:1px solid #DCDCDC;}
+.logo a{text-indent:-9999em;display: block;width:297px;height:82px;background:url(../images/logo.png) no-repeat;margin:47px 0 53px;}
+.tel img{float:right;margin:2px 33px 0 0;}
+.banner{margin-top:30px;}
+.ix-notice{margin-top:18px;}
+.ix-notice .fl{padding:50px 484px 36px 72px;background:url(../images/notice-banner.jpg) no-repeat;}
+.ix-notice p{font-size:22px;color:#fff;line-height:1.2;}
+.ix-notice .colory{color:#FEF274;margin-top:5px;}
+.ix-notice span{display:block;line-height:1;}
+.ix-notice .f35{font-size:35px;font-weight:bold;}
+.ix-notice button{display:block;margin:0 auto;width:153px;height:33px;line-height:33px;text-align:center;border:0;border-radius:3px;background:#FDB92D;color:#fff;margin-top:15px;}
+.ix-new{width:346px;height:246px;border:1px solid #E8E8E8;background:#fff;}
+.ix-new h2{margin:17px 0 3px;padding-left:33px;background:url(../images/notice.gif) 13px no-repeat;border-bottom:1px solid #DCDCDC;font-size:16px;font-weight:normal;color:#F95F19;}
+.ix-new ul{padding:0 22px 0 10px;margin-top:20px;}
+.ix-new li{list-style:disc inside;font-size:13px;margin-bottom:28px;color:#959595;}
+/*end ix-notice*/
+.ix-charac{color:#fff;margin-top:28px;}
+.ix-charac h2{font-size:22px;font-weight:normal;line-height: 1;margin-bottom: 10px;}
+.ix-charac p{font-size:13px;}
+.ix-charac li{width:161px;height:85px;padding:23px 80px 20px 20px;float:left;margin-right:18px;}
+.ix-charac .c-1{background:url(../images/ix-charac-1.jpg) no-repeat;}
+.ix-charac .c-2{background:url(../images/ix-charac-2.jpg) no-repeat;}
+.ix-charac .c-3{background:url(../images/ix-charac-3.jpg) no-repeat;}
+.ix-charac .c-4{background:url(../images/ix-charac-4.jpg) no-repeat;margin-right:0;}
+/*end ix-charac*/
+.index-main{margin-bottom:33px;}
+.ix-section{padding:0 20px;background:#fff;margin-top:28px;padding-bottom: 14px;}
+.ix-section h2{margin-bottom:20px;padding:15px 0;color:#F95F19;font-size:22px;font-weight:normal;border-bottom:1px solid #E4E4E4;}
+.ix-brand .brand-list{width:600px;margin-left:5px;}
+.ix-brand .brand-list li{float:left;margin-right:20px;margin-bottom:21px;border:1px solid #E4E4E4;}
+.ix-brand img{display:block;}
+.ix-brand-news{width:423px;margin-right:8px;}
+.ix-brand-news li{margin-bottom:14px;}
+.ix-brand-news span,.ix-brand-news a{color:#898989;}
+.ix-brand-news a{float:left;}
+.ix-brand-news span{float:right;}
+.ix-sections .w732{width:695px;float:left;}
+.ix-sections .w346{width:306px;float:left;margin-left:19px;}
+.ix-brand .m28{margin:0 28px;}
+.ix-section p{color:#656565;line-height:24px;margin-top:11px;}
+.result-video{display:block;margin:31px auto 13px;}
+.ix-section .newace{margin:0;}
+.ix-section .newace a{color:#FD7143;}
+.ix-signup li{margin:0 0 11px 9px;}
+.ix-signup .signup{margin:0;}
+.ix-section .process{margin-bottom:30px;}
+/*index end*/
+.about-banner{display:block;margin-bottom:13px;}
+.whitebg{background:#fff;overflow: hidden;}
+.nobg-color{background:none;border:0;}
+.about-title{border-bottom:1px solid #E4E4E4;}
+.about-title h2{width:173px;margin:0 auto;padding:15px 0;color:#FB4E0E;font-size:24px;font-weight:normal;border-bottom:2px solid;position:relative;top:1px;}
+.about-title .w240{width:240px;}
+.about-title .w264{width:264px;}
+.about-model ul{margin:48px 0 65px 36px;list-style:disc;color:#666;}
+.about-model li{line-height:22px;margin-bottom:10px;}
+.press-banner{height:450px;background:url(../images/press-banner.jpg) center 90px no-repeat #F6F6F6;padding-top:90px;}
+.about .mt52{text-align:center;margin-top:52px;}
+.about h3{font-size:30px;font-weight:normal;text-align:center;}
+.about-sign{margin:54px auto 65px;}
+.about-sign li{margin-left:10px;margin-bottom:30px;}
+.about-sign img{display:block;}
+.about-sign .distab{display:table-cell;vertical-align:middle;width:265px;height:77px;text-align:center;background:#EDEDED;}
+.about-sign .mr0{margin-right:0;}
+/*end about*/
+.addr-main{margin-top:44px;margin-bottom:60px;}
+.location{width:520px;}
+.map h3{width:520px;}
+.map p{padding:15px 0 0 5px;}
+.map img{display:block;}
+.location h4{color:#FB4E0E;font-size:18px;font-weight:normal;margin:38px 0 20px;}
+.addr-info li{padding:22px 0 20px 18px;margin-bottom:23px;border:1px solid #E4E4E4;color:#656565;}
+.addr-info h5{font-size:18px;font-weight:normal;margin-bottom:10px;}
+/*end address*/
